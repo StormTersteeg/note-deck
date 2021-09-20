@@ -1,0 +1,12 @@
+html, body {margin:0;padding:0}
+body {height:100%;transition:1s}
+
+.outline-none {outline:none;border:none}
+.fs-12 {font-size:12px}
+
+.h-minbar {height: calc(100% - 65px)}
+#tab-button-container {overflow:hidden}
+
+.field, .tab-button, #add-button{transition:.3s}
+
+.above-modal{z-index:241;position:relative}

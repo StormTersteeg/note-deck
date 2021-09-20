@@ -1,0 +1,54 @@
+<div class="modal fade" id="saveModal" tabindex="-1" role="dialog" aria-labelledby="saveModalTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content bg-dark-3">
+      <div class="modal-body mb-0">
+        <div class="form-group text-white">
+          <label for="filename" class="text-white">Save as</label>
+          <input type="text" class="form-control text-white" id="filename" placeholder="my deck of notes">
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-dark text-white" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" onclick="app.save(document.getElementById('filename').value)" data-dismiss="modal">Save</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="openModal" tabindex="-1" role="dialog" aria-labelledby="openModalTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content bg-dark-3">
+      <div class="modal-body mb-0">
+        <div class="form-group text-white">
+          <label for="filename-open" class="text-white">Open</label>
+          <select class="form-control text-white" id="filename-open">
+
+          </select>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-dark text-white" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" onclick="app.fetchSave(document.getElementById('filename-open').value)" data-dismiss="modal">Open</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="deleteModal" tabindex="-1" role="dialog" aria-labelledby="deleteModalTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content bg-dark-3">
+      <div class="modal-body mb-0">
+        <div class="form-group text-white">
+          <label for="filename-open" class="text-white">Open</label>
+          <select class="form-control text-white" id="filename-delete">
+
+          </select>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-dark text-white" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-warning" onclick="app.deleteSave(document.getElementById('filename-delete').value)" data-dismiss="modal">Delete</button>
+      </div>
+    </div>
+  </div>
+</div>
