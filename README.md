@@ -1,7 +1,7 @@
 # Python Glide
 
 ![Alt text](http://projects.dontdalon.com/assets/img/notedeck-screenshot.png)<br>
-A simple proof-of-concept note taking app written in HTML, CSS & Javascript and compiled using [Glide](https://github.com/StormTersteeg/Python-Glide-Framework)
+A simple proof-of-concept note taking app written in HTML, CSS & Javascript and compiled using [Glide](https://github.com/StormTersteeg/Python-Glide-Framework).
 
 ### Features
 - Write notes
