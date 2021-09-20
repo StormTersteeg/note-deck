@@ -10,7 +10,7 @@ A simple proof-of-concept note taking app written in HTML, CSS & Javascript and 
 - Edit notes
 - Dark/Light theme
 
-<br><br>
+<br>
 
 ### Uses:
 | Resource            | Type |  |
