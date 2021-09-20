@@ -22,7 +22,6 @@ resources = [                           # Resources to be included
   "resources/index.html",
   "resources/modals.html",
   "resources/assets/jquery-3.5.1/jquery.slim.min.js",
-  "resources/assets/popper-1.14.3/popper.min.js",
   "resources/assets/bootstrap-4.1.1/bootstrap.min.js",
   "resources/assets/material-4.1.1/material.min.js",
   "resources/assets/custom/custom.js"
