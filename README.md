@@ -19,5 +19,4 @@ A simple proof-of-concept note taking app written in HTML, CSS & Javascript and 
 | JQuery 3.5.1               | JS     | https://jquery.com/                                             |
 | Daemonite's Material 4.1.1 | CSS    | https://daemonite.github.io/material/                           |
 | Material Icons             | Font   | https://fonts.google.com/icons?selected=Material+Icons          |
-| Popper 1.14.3              | JS     | https://popper.js.org/                                          |
 | Roboto                     | Font   | https://fonts.google.com/specimen/Roboto                        |
