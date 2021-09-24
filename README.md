@@ -10,6 +10,11 @@ A simple proof-of-concept note taking app written in HTML, CSS, Javascript & Pyt
 - Edit notes
 - Dark/Light theme
 
+### To do
+- Close tab button
+- New instance button
+- Rename tab feature
+
 ### Uses:
 | Resource            | Type |  |
 |----------------------------|--------|-----------------------------------------------------------------|
