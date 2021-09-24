@@ -9,7 +9,7 @@ A simple proof-of-concept note taking app written in HTML, CSS, Javascript & Pyt
 - Delete notes
 - Edit notes
 - Dark/Light theme
-- Export to JSON
+- Export
 
 ### Uses:
 | Resource            | Type |  |
