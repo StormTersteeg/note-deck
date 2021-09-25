@@ -1,5 +1,5 @@
 # App Settings ====================================================================================================
-app_name = "note-deck"                      # App name, displayed in the title bar
+app_name = "tabbed-notes"                      # App name, displayed in the title bar
 app_proportions = [800, 450]            # Width, Height
 app_confirm_close = False               # Quit confirmation dialog prompt
 app_allow_inspect = False               # To open up debugging console, right click on an element and select Inspect.
