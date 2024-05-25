@@ -1,6 +1,6 @@
 # tabbed-notes
 
-![Alt text](http://projects.dontdalon.com/assets/img/notedeck-screenshot.png)<br>
+![Alt text](https://stormtersteeg.github.io/assets/apps/notedeck-screenshot.png)<br>
 A simple proof-of-concept note taking app written in HTML, CSS, Javascript & Python, compiled using [Glide](https://github.com/StormTersteeg/Python-Glide-Framework).
 
 ### Features
